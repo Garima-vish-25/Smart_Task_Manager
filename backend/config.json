@@ -1,0 +1,7 @@
+{
+  "thresholds": {},
+  "dynamic_thresholds": {
+    "cpu_high": 50,
+    "ram_high": 88
+  }
+}
